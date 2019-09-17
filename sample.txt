@@ -3,4 +3,3 @@ master only commit
 develop only commit
 hot fix commit
 hotfix 2
-remote develop commit
